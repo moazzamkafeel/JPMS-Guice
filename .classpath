@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="application/src"/>
+	<classpathentry kind="src" path="module1/src"/>
+	<classpathentry kind="src" path="module2/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="src/WEB-INF/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="src/WEB-INF/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="src/WEB-INF/lib/guice-4.1.0.jar"/>
+	<classpathentry kind="lib" path="src/WEB-INF/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="src/WEB-INF/lib/jersey-server-3.0.2.jar"/>
+	<classpathentry kind="lib" path="src/WEB-INF/lib/jersey-container-grizzly2-http-3.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
